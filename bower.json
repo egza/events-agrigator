@@ -1,0 +1,15 @@
+{
+  "name": "events-agrigator",
+  "version": "0.0.0",
+  "homepage": "https://github.com/DiskoGoth/events-agrigator",
+  "authors": [
+    "allOfUs"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.4.8",
+    "jquery": "~2.2.0",
+    "lodash": "~4.0.0"
+  }
+}
