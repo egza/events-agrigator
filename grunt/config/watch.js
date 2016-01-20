@@ -1,6 +1,6 @@
 module.exports = {
   sourcts: {
     files: ['<%= general.srcDir %>/js/**/*.js'],
-    tasks: ['concat']
+    tasks: ['concat', 'jshint']
   }
 };
